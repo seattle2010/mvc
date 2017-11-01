@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.1.1">
+    <CLASSES>
+      <root url="jar://C:/springmvc独立运行/commons-logging-1.1.1.jar!/" />
+      <root url="jar://C:/springmvc独立运行/jstl-1.2.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-aop-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-aspects-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-beans-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-context-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-context-support-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-core-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-expression-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-jdbc-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-jms-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-messaging-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-tx-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-web-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/springmvc独立运行/spring-webmvc-4.1.3.RELEASE.jar!/" />
+      <root url="jar://C:/lombok.jar!/" />
+      <root url="jar://C:/jackson-core-asl-1.7.2.jar!/" />
+      <root url="jar://C:/jackson-mapper-asl-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

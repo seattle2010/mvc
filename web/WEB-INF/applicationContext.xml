@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--MVC框架有model、view、controller三部分组成。model一般为一些基本的Java Bean，view用于进行相应的页面显示，controller用于处理网站的请求-->
+
+
+</beans>
